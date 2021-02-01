@@ -1451,7 +1451,7 @@ Other geographic basemaps avaiable in MATLAB can be found [here](https://se.math
 
      *In the above equation, P (=h(Z,Q)) would apply to the oceanographers' standard ocean, defined as an ideal medium with a temperature of 0 °C and salinity of 35 parts per thousand.*
 
-Also, try out these **MATLAB Examples**
+Also, try out these **MATLAB Examples**:
 
 - [GPS receiver simulation model](https://se.mathworks.com/help/nav/ref/gpssensor-system-object.html). Run this `openExample('shared_positioning/GenerateGPSPositionMeasurementsFromStationaryInputExample')` in the **Command Window**.
 
